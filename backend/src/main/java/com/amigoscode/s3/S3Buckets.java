@@ -1,4 +1,4 @@
-package com.judeshello.s3;
+package com.amigoscode.s3;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
