@@ -1,1 +1,1 @@
-# s3sync by jude shello
+# s3sync 
